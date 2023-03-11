@@ -1,0 +1,7 @@
+{
+  "name": "github-commit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
