@@ -1,5 +1,5 @@
 # github-commits
-##Prerequisites
+## Prerequisites
 Before proceeding with the installation, ensure that you have the following software installed on your system:
 
 Node.js
